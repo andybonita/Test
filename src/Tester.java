@@ -3,10 +3,10 @@
  */
 public class Tester {
     public int nbr;
-    public String state;
+    public String state="pierre";
 
-    public Tester( int n, String st){
+    public Tester( int n){
         this.nbr=n;
-        this.state=st;
+
     }
 }
